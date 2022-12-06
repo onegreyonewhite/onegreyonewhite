@@ -28,12 +28,12 @@
 
 I am a DevOps Evangelist and Senior Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :clock930: I’m working as a Software developer and CTO.
+- :clock930: I work as a Software developer and CTO.
 - :telescope: Invented and released the [Polemarch](https://about.polemarch.org/).
-- :man_student: Learn to write quality technical content.
-- :heavy_heart_exclamation: Love open source and try to help it in every possible way.
-- :free: In my free time, I'm creating new instruments of software development and deployment.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onegreyonewhite) or
+- :man_student: Learning to write quality technical content.
+- :heavy_heart_exclamation: Love open source and try to provide it in every possible way.
+- :free: During my free time, I'm creating new instruments of software development and deployment.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onegreyonewhite) or
   [![Habr Career Badge](https://img.shields.io/badge/HabrCareer-white?style=for-the-badge&logo=habr&logoColor=white&color=6274bc)](https://career.habr.com/onegreyonewhite)
 
 ---
