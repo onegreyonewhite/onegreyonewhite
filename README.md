@@ -29,7 +29,7 @@
 I am a DevOps Evangelist and Senior Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :clock930: I work as a Software developer and CTO.
-- :telescope: Invented and released the [Polemarch](https://about.polemarch.org/).
+- :telescope: Invented and released the [Polemarch](https://about.polemarch.org/) and the [vstutils](https://vstutils.vstconsulting.net/en/stable/).
 - :man_student: Learning to write quality technical content.
 - :heavy_heart_exclamation: Love open source and try to provide it in every possible way.
 - :free: During my free time, I'm creating new instruments of software development and deployment.
@@ -64,9 +64,11 @@ I am a DevOps Evangelist and Senior Python developer <img src="https://media.gip
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-original-wordmark.svg" title="k3s" alt="k3s" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
+    <img src="https://werf.io/assets/images/werf-logo.svg" title="Werf" alt="Werf" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/VictoriaMetrics/VictoriaMetrics/master/docs/assets/images/vm_logo.svg" title="VictoriaMetrics" alt="VictoriaMetrics" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
 </div>
 
