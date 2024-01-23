@@ -26,9 +26,8 @@
 
 ### :man_technologist: About Me :
 
-I am a DevOps Evangelist and Senior Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a DevOps Evangelist and Senior Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California.
 
-- :clock930: I work as a Software developer and CTO.
 - :telescope: Invented and released the [Polemarch](https://about.polemarch.org/) and the [vstutils](https://vstutils.vstconsulting.net/en/stable/).
 - :man_student: Learning to write quality technical content.
 - :heavy_heart_exclamation: Love open source and try to provide it in every possible way.
@@ -79,19 +78,3 @@ I am a DevOps Evangelist and Senior Python developer <img src="https://media.gip
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onegreyonewhite&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onegreyonewhite&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**onegreyonewhite/onegreyonewhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
