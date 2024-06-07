@@ -4,9 +4,6 @@
         <a href="https://www.linkedin.com/in/onegreyonewhite">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://career.habr.com/onegreyonewhite">
-            <img src="https://img.shields.io/badge/HabrCareer-white?style=for-the-badge&logo=habr&logoColor=white&color=6274bc" alt="Habr Career Badge"/>
-        </a>
         <a href="https://github.com/onegreyonewhite">
             <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=white&color=black" alt="Github Badge"/>
         </a>
@@ -32,8 +29,13 @@ I am a DevOps Evangelist and Senior Python developer <img src="https://media.gip
 - :man_student: Learning to write quality technical content.
 - :heavy_heart_exclamation: Love open source and try to provide it in every possible way.
 - :free: During my free time, I'm creating new instruments of software development and deployment.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onegreyonewhite) or
-  [![Habr Career Badge](https://img.shields.io/badge/HabrCareer-white?style=for-the-badge&logo=habr&logoColor=white&color=6274bc)](https://career.habr.com/onegreyonewhite)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onegreyonewhite)
+
+<div align="center">
+  <a href="https://www.credly.com/badges/8667f4eb-38b3-4c9a-b8ca-e8040bcd6f31/public_url">
+    <img src="https://raw.githubusercontent.com/onegreyonewhite/onegreyonewhite/master/cka-certified-kubernetes-administrator.png" />
+  </a>
+</div>
 
 ---
 
